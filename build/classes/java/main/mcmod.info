@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "toturial",
+        "name": "Toturial",
+        "version": "1.0-SNAPSHOT",
+        "authorList": [
+            "GoogleTn"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
